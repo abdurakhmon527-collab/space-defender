@@ -1,0 +1,1 @@
+Optional font directory. The game first checks for `Orbitron-Regular.ttf` here, then tries standard Windows/Linux system fonts. No font is bundled, so there are no third-party font licensing restrictions in the default project.

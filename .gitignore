@@ -1,0 +1,25 @@
+# CMake build output
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+Testing/
+
+# IDE files
+.vs/
+.idea/
+.vscode/ipch/
+
+# Runtime save files (keep the saves folder)
+saves/highscore.txt
+saves/highscore.txt.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+build/
+*.exe
+*.dll

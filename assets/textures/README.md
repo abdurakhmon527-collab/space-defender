@@ -1,0 +1,1 @@
+The default edition uses procedural SFML geometry for the player, enemies, boss, asteroids, particles, power-ups, and neon interface. This keeps the project self-contained and avoids third-party image licensing.
